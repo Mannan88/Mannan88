@@ -1,4 +1,4 @@
-- Hi, I’m @Mannan88
+- Hi, I’m Mannan.
 - I’m focused on improving my skills and create amazing projects!
 - I’m currently learning c++
 - Pronouns: He/Him
