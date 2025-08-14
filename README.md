@@ -1,18 +1,42 @@
-## Hi there 👋
-<p align='center'>
-  [  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Input%20text&fontSize=80)
+<h1 align="center">Hi 👋, I'm Mannan Kochar</h1>
+<h3 align="center">🚀 Developer | 💡 Innovator | 🎯 Problem Solver</h3>
+
+<p align="center">
+  <a href="https://github.com/Mannan88"><img src="https://img.shields.io/github/followers/mannankochar?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/mannan-kochar-74bb75270/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kocharmanan88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
-<!--
-**Mannan88/Mannan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me  
+- 🌱 Currently learning **Full Stack Development**   
+---
+
+### 🛠️ Tech Stack  
+#### 🚀 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript) 
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![C++](https://img.shields.io/badge/C++-000?logo=c%2b%2b)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Express.js](https://img.shields.io/badge/Express.js-000?logo=express)
+
+#### 🗄️ Databases & Tools  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
+
+
+---
+
+### 🏆 Achievements  
+- 🥇 **Finalist** in *Frontend Battle 2.0* Hackathon (Top 90 out of 5000+)  
+- 🥈 Built a real-time **AI-powered Smart City Dashboard** for college project  
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mannan-kochar-74bb75270/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="mailto:kocharmanan88@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+</p>
