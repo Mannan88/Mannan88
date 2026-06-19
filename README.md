@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mannan Kochar</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💡 Innovator | 🎯 Problem Solver</h3>
+<h3 align="center">✨ Creative Developer | 🚀 Frontend Engineer | 🎨 UI Architect</h3>
+
+<p align="center">
+  <em>"No matter the state of the market or the world, I see myself creating cool shit."</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/Mannan88"><img src="https://img.shields.io/github/followers/Mannan88?label=Follow&style=social"></a>
@@ -9,79 +13,69 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 The Blueprint
 
-* Full-stack developer and Computer Engineering student at Atharva College of Engineering (2023-2027)
-* Strong foundation in **JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL**
-* Experienced in building **responsive, scalable, and user-focused web applications** with optimized UI/UX and backend integrations
-* Skilled in **Docker workflows**, **API development**, and collaborative project environments
-* Adept at delivering high-quality solutions under tight deadlines in team-based and cross-functional settings
+* Operating at the intersection of **strict technical logic and high-end visual design**. Currently entering my fourth year of Computer Engineering at Atharva College of Engineering (2023-2027).
+* Specializing in **Next.js architecture, React, and complex DOM manipulation** using GSAP to build 60fps interactive environments.
+* Deeply invested in UI/UX and creative direction, focusing on **digital atmospheres, brutalist typography, and intuitive user flows**.
+* Actively bridging the gap between heavy, data-driven CRM systems and fluid, memorable user interfaces.
+* Aiming to push the boundaries of Interaction Technology and Human-Computer Interaction on a global scale.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-#### 🚀 Languages & Frameworks
-
+#### 🚀 Frontend & Motion
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![C++](https://img.shields.io/badge/C++-000?logo=c%2b%2b)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
 ![React](https://img.shields.io/badge/React-000?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
+![GSAP](https://img.shields.io/badge/GSAP-000?logo=greensock)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwind-css)
+
+#### 🎨 Design & Creative Direction
+![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
+![Canva](https://img.shields.io/badge/Canva-000?logo=canva)
+* Wireframing, High-Fidelity Prototyping, Brutalist UI, Interactive State Management
+
+#### 🗄️ Architecture & Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000?logo=express)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?logo=bootstrap)
-
-#### 🗄️ Databases & Tools
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visual-studio-code)
 
-#### 🔐 Authentication & Security
-
-* Passport.js, Google OAuth2, hashing & encryption
-
-#### 🧠 Soft Skills
-
-* Communication, Leadership, Problem Solving, Artistic skills
-
 ---
 
 ### 💼 Experience
 
-**Frontend Intern** – RenderVoid | *Aug 2025 - Present*
-
-* Implemented Docker for development and hosting
-* Refined ReactJS skills by working on real-world production code
+**Frontend Intern** – Glory Quick | *March 2026 - Present*
+* Architecting state-heavy frontend features for CRM-based projects utilizing Next.js.
+* Translating complex business logic and data into clean, responsive, and highly optimized user interfaces.
+* Implemented Docker for development and hosting workflows.
 
 **Web Team Member** – Google Developers Group \[GDGC] ACE, Mumbai | *Sept 2024 - July 2025*
-
-* Successfully worked on coding and group projects
-* Led the Décor team in the **PIXEL DESIGNATHON** event
-
----
-
-### 📂 Projects
-
-* **PokéDex** – ReactJS app using PokéAPI & Axios to display Pokémon info
-* **AnimeInfo** – NodeJS + PostgreSQL app with AniList API integration & secure authentication
-* **Blog Posting** – CRUD blog platform in NodeJS & EJS with partials for faster loading
-* **RenderVoid** – Contributed frontend features & UI in ReactJS, learned Docker for deployment/hosting
-* **Atharva Mentoring Website** – ReactJS project contributing to frontend of mentoring platform, optimized UI/UX
+* Blended technical execution with creative direction, successfully delivering coding projects.
+* Led the physical design aesthetics for the **PIXEL DESIGNATHON** event as part of the Décor team.
 
 ---
 
-### 🏆 Hackathons, Certifications & Achievements
+### 📂 The Archive
 
+* **Immersive Space Website** – Led the full creative and technical lifecycle (Figma + Next.js + GSAP), engineering complex scroll triggers and a highly interactive DOM environment.
+* **Luxury Social Platform** – Designed a high-end UI/UX concept in Figma, solving the complex problem of maintaining a "quiet luxury" aesthetic (matte black/gold) within a feature-dense, noisy social app environment.
+
+---
+
+### 🏆 Hackathons & Recognition
+
+* **Finalist (Offline Round)** – 24hr Agentic AI Hackathon (March 2026): Cleared initial rounds to build complex AI-integrated frontend interfaces under extreme time constraints.
+* **Finalist** in *Frontend Battle 2.0* Hackathon (Top 90 out of 5000+).
 * Participated in **3 major hackathons**, including:
-
-  * 24hr Blockchain Hackathon (built ReactJS frontend)
-  * 24hr ReactJS frontend project for Smart City Dashboard
-  * IIT Bhubaneswar 12hr Hackathon finalist (prototype delivered under time pressure)
-* Earned **multiple certifications** in web development and related fields
-* **Finalist** in *Frontend Battle 2.0* Hackathon (Top 90 out of 5000+)
+  * 24hr Blockchain Hackathon (built ReactJS frontend).
+  * 24hr ReactJS frontend project for Smart City Dashboard.
+  * IIT Bhubaneswar 12hr Hackathon finalist (prototype delivered under time pressure).
 
 ---
 
@@ -93,6 +87,3 @@
   <a href="https://github.com/Mannan88"><img src="https://img.icons8.com/material-outlined/48/github.png"/></a>
   <a href="https://in.pinterest.com/mannankochar885"><img src="https://img.icons8.com/color/48/pinterest.png"/></a>
 </p>
-
----
-
