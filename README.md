@@ -57,11 +57,11 @@
 * Optimizing client-side rendering pathways and UI state management to deliver instant user feedback loops.
 * Standardized containerized development and deployment workflows using Docker.
 
-**Freelance Product Designer** – *Alumnest (Pre-Seed Startup)* | `2025`
+**Freelance Product Designer** – *Alumnest (Pre-Seed Startup)* | `2026 May`
 * Spearheaded end-to-end mobile design for a funded social networking platform.
 * Architected a scalable 35+ screen component library and tokenized design system in Figma for seamless developer handoff.
 
-**Web Co-Lead** – *Google Developer Groups (GDGC) ACE* | `Sept 2024 – Present`
+**Web Co-Lead** – *Google Developer Groups (GDGC) ACE* | `Sept 2025 – April 2026`
 * Leading and mentoring a web development team, organizing technical workshops on modern frontend architecture, and steering event UI aesthetics.
 
 ---
